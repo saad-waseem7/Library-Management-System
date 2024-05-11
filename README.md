@@ -18,15 +18,6 @@ This project demonstrates the following OOP concepts:
 - **Classes and Objects**: The code is organized into classes such as `Book`, `Library`, and `Member`, representing real-world entities.
 - **Encapsulation**: Data members of classes are encapsulated and accessed through public member functions, maintaining data integrity.
 - **Abstraction**: Each class provides a clear interface (public member functions) for interacting with its data, hiding the internal implementation details.
-- **Inheritance**: While not explicitly shown in this code, the concept of inheritance could be applied to extend the functionality of classes, e.g., creating specialized types of books.
-- **Polymorphism**: Polymorphic behavior is not explicitly demonstrated in this code, but it could be implemented using virtual functions and dynamic dispatch to allow different classes to be treated interchangeably.
-
-## Folder Structure
-
-- **Main.cpp**
-- **Function.h**
-- **Library.h**
-- **Class.h**
 
 ## Usage
 
