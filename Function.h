@@ -2,6 +2,8 @@
 #include "Library.h"
 #include "Class.h"
 
+// >>>Other Utility Functions Prototypes...
+
 void addBook(Library &library);
 void removeBook(Library &library);
 void searchBook(Library &library);
@@ -10,6 +12,8 @@ void addMember(Member members[], int &numMembers);
 void removeMember(Member members[], int &numMembers, int memberId);
 void searchMember(const Member members[], int numMembers, int memberId);
 void manageMembers(Member members[], int &numMembers);
+
+// >>>Functions Definitions...
 
 void addBook(Library &library)
 {
